@@ -1,2 +1,2 @@
 # okey-sequence
-Automatically aligns the hand in Okey game.
+Automatically aligns the hand in Rummy game.
